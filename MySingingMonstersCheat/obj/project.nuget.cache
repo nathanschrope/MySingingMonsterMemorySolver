@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yIJDSjxFuaqHJs01Se+AFBwXdiMOFyPfbWJcxRt8lZXWRe+EzkfCp1JDTtwx5iX/Fi70Wu08tdiDYWGtExnJUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Natha\\Source\\Repos\\MySingingMonsterMemorySolver\\MySingingMonstersCheat\\MySingingMonstersCheat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Natha\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Natha\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
